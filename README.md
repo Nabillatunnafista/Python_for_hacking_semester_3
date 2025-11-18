@@ -31,23 +31,26 @@ Proyek ini dirancang untuk mencapai tujuan-tujuan praktikum berikut:
    ```bash
     Python Tcp_server.py
     ```
-   ### **Outputnya**
-   
-3. TCP Client
+   #### Outputnya
+   <img width="600" height="195" alt="image" src= https://github.com/Nabillatunnafista/Python_for_hacking_semester_3/blob/4ddb60252aa8b68ddec75900e2473ec39505ccf4/gambar/Tcp%20server.png>
+2. TCP Client
    ```bash
     Python Tcp_client.py
     ```
-4. UDP Server
+   #### Outputnya
+   <img width="600" height="195" alt="image" src= https://github.com/Nabillatunnafista/Python_for_hacking_semester_3/blob/4ddb60252aa8b68ddec75900e2473ec39505ccf4/gambar/Tcp%20client%20.png >
+3. UDP Server
    ```bash
     Python Udp_server.py
     ```
-   ### **Outputnya**
-   
-6. UDP Client
+   #### Outputnya
+   <img width="600" height="195" alt="image" src= https://github.com/Nabillatunnafista/Python_for_hacking_semester_3/blob/4ddb60252aa8b68ddec75900e2473ec39505ccf4/gambar/Udp%20server.png >
+4. UDP Client
    ```bash
     Python Udp_client.py
     ```
-   ### **Outputnya**
+   #### Outputnya
+   <img width="600" height="195" alt="image" src= https://github.com/Nabillatunnafista/Python_for_hacking_semester_3/blob/4ddb60252aa8b68ddec75900e2473ec39505ccf4/gambar/Udp%20client.png>
 
 ---
 ## ⚙️ Persyaratan (Dependencies)
