@@ -53,9 +53,14 @@ Proyek ini dirancang untuk mencapai tujuan-tujuan praktikum berikut:
    <img width="600" height="195" alt="image" src= https://github.com/Nabillatunnafista/Python_for_hacking_semester_3/blob/4ddb60252aa8b68ddec75900e2473ec39505ccf4/gambar/Udp%20client.png>
 
 ---
-## ⚙️ Persyaratan (Dependencies)
-Tidak ada library eksternal yang diperlukan. Proyek ini hanya menggunakan library standar Python:
-* import socket
+## ✅ Requirement
+* Python 3.8 atau lebih baru
+* Tidak butuh library tambahan
+  Menggunakan built-in module:
+
+```python
+import socket
+```
 ---
 ## 🖥️ Referensi Video Pembelajaran
 * TCP: https://youtu.be/GlVfVn17_ug?si=KDHRpRAikI445ey2
